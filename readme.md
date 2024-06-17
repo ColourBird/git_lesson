@@ -1,5 +1,6 @@
 # Java　プロジェクト
 
--readme.md ・・・　このファイル
+-readme.md …　このファイル
 -src/
-    -First.java　・・・初めてのJava
+    -First.java　…　初めてのJava
+    -Second.java　…　おやすみ java
