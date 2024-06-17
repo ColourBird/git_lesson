@@ -1,4 +1,4 @@
-# Javaプロジェクト
+# Java　プロジェクト
 
 -readme.md ・・・　このファイル
 -src/
